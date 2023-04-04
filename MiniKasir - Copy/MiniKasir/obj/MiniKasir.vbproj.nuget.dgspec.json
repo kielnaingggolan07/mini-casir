@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Matkul\\Semes 6\\PBKK1\\Casir\\MiniKasir - Copy\\MiniKasir\\MiniKasir.vbproj": {}
+  },
+  "projects": {
+    "D:\\Matkul\\Semes 6\\PBKK1\\Casir\\MiniKasir - Copy\\MiniKasir\\MiniKasir.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Matkul\\Semes 6\\PBKK1\\Casir\\MiniKasir - Copy\\MiniKasir\\MiniKasir.vbproj",
+        "projectName": "MiniKasir",
+        "projectPath": "D:\\Matkul\\Semes 6\\PBKK1\\Casir\\MiniKasir - Copy\\MiniKasir\\MiniKasir.vbproj",
+        "packagesPath": "C:\\Users\\HP 14\\.nuget\\packages\\",
+        "outputPath": "D:\\Matkul\\Semes 6\\PBKK1\\Casir\\MiniKasir - Copy\\MiniKasir\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP 14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EntityFrameworkCore.Jet.OleDb": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

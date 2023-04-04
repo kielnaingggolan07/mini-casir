@@ -1,0 +1,172 @@
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.exe
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.deps.json
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.runtimeconfig.json
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.pdb
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.AssemblyReference.cache
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.Form1.resources
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.GenerateResource.cache
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.AssemblyInfoInputs.cache
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.AssemblyInfo.vb
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.CoreCompileInputs.cache
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\refint\MiniKasir.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.pdb
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.genruntimeconfig.cache
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\ref\MiniKasir.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.LoginForm.resources
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.CopyComplete
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.Data.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\Interop.JRO.dll
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.ResolveComReference.cache
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.MasterForm.resources
+C:\Users\HP 14\source\repos\MiniKasir\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.KategoriBarangForm.resources
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.exe
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.deps.json
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.runtimeconfig.json
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.pdb
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.Data.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.AssemblyReference.cache
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\Interop.JRO.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.ResolveComReference.cache
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.Form1.resources
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.KategoriBarangForm.resources
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.LoginForm.resources
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.MasterForm.resources
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.GenerateResource.cache
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.AssemblyInfoInputs.cache
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.AssemblyInfo.vb
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.CoreCompileInputs.cache
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.CopyComplete
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\refint\MiniKasir.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.pdb
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.genruntimeconfig.cache
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\ref\MiniKasir.dll
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.BarangForm.resources
+C:\Users\HP 14\source\repos\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.TransaksiPenjualanBarangForm.resources
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.exe
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.deps.json
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.runtimeconfig.json
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\MiniKasir.pdb
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.Data.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\EntityFrameworkCore.Jet.OleDb.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Bcl.HashCode.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.AssemblyReference.cache
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\Interop.JRO.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.ResolveComReference.cache
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.BarangForm.resources
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.Form1.resources
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.KategoriBarangForm.resources
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.LoginForm.resources
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.MasterForm.resources
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.TransaksiPenjualanBarangForm.resources
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.GenerateResource.cache
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.GeneratedMSBuildEditorConfig.editorconfig
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.AssemblyInfoInputs.cache
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.AssemblyInfo.vb
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.CoreCompileInputs.cache
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.vbproj.CopyComplete
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\refint\MiniKasir.dll
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.pdb
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\MiniKasir.genruntimeconfig.cache
+D:\Matkul\Semes 6\PBKK1\Casir\MiniKasir - Copy\MiniKasir\obj\Debug\net6.0-windows\ref\MiniKasir.dll
